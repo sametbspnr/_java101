@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12ccd709-4afa-410a-90e2-887da98b1a36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_7_manav_kasa_programi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_7_manav_kasa_programi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_3_hipotenus/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Java101Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/.idea/Java101Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_4_taksimetre_programi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_not_hesap_programi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_1_not_hesap_programi/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_not_hesap_programi/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_4_taksimetre_programi/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_not_hesap_programi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_3_hipotenus/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_not_hesap_programi/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_1_not_hesap_programi/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_not_hesap_programi/_1_not_hesap_programi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_7_manav_kasa_programi/_7_manav_kasa_programi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_1_not_hesap_programi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_1_not_hesap_programi/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2_kdv_hesap_programi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_2_kdv_hesap_programi/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2_kdv_hesap_programi/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_5_daire_alan_cevre_programi/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2_kdv_hesap_programi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_5_daire_alan_cevre_programi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2_kdv_hesap_programi/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_2_kdv_hesap_programi/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2_kdv_hesap_programi/_2_kdv_hesap_programi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_5_daire_alan_cevre_programi/_5_daire_alan_cevre_programi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2_kdv_hesap_programi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_2_kdv_hesap_programi/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_hipotenus/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_3_hipotenus/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_hipotenus/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_6_vucut_kitle_endeksi_programi/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_hipotenus/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_3_hipotenus/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_hipotenus/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_6_vucut_kitle_endeksi_programi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_hipotenus/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_3_hipotenus/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_hipotenus/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_6_vucut_kitle_endeksi_programi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_hipotenus/_3_hipotenus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_6_vucut_kitle_endeksi_programi/_6_vucut_kitle_endeksi_programi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_3_hipotenus/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_3_hipotenus/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_4_taksimetre_programi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_4_taksimetre_programi/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_4_taksimetre_programi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_4_taksimetre_programi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_4_taksimetre_programi/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_4_taksimetre_programi/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_4_taksimetre_programi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_7_manav_kasa_programi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_4_taksimetre_programi/_4_taksimetre_programi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_4_taksimetre_programi/_4_taksimetre_programi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_4_taksimetre_programi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_4_taksimetre_programi/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_5_daire_alan_cevre_programi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_5_daire_alan_cevre_programi/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_5_daire_alan_cevre_programi/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_5_daire_alan_cevre_programi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_5_daire_alan_cevre_programi/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_5_daire_alan_cevre_programi/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_5_daire_alan_cevre_programi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_3_hipotenus/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_5_daire_alan_cevre_programi/_5_daire_alan_cevre_programi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_1_not_hesap_programi/_1_not_hesap_programi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_5_daire_alan_cevre_programi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_5_daire_alan_cevre_programi/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_vucut_kitle_endeksi_programi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_6_vucut_kitle_endeksi_programi/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_vucut_kitle_endeksi_programi/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_1_not_hesap_programi/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_vucut_kitle_endeksi_programi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_1_not_hesap_programi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_vucut_kitle_endeksi_programi/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_6_vucut_kitle_endeksi_programi/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_vucut_kitle_endeksi_programi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_4_taksimetre_programi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_vucut_kitle_endeksi_programi/_6_vucut_kitle_endeksi_programi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_2_kdv_hesap_programi/_2_kdv_hesap_programi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_vucut_kitle_endeksi_programi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_6_vucut_kitle_endeksi_programi/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_7_manav_kasa_programi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_7_manav_kasa_programi/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_7_manav_kasa_programi/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_2_kdv_hesap_programi/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_7_manav_kasa_programi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_2_kdv_hesap_programi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_7_manav_kasa_programi/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_7_manav_kasa_programi/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_7_manav_kasa_programi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_5_daire_alan_cevre_programi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_7_manav_kasa_programi/_7_manav_kasa_programi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_3_hipotenus/_3_hipotenus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_7_manav_kasa_programi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/_7_manav_kasa_programi/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/_1_not_hesap_programi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/out/production/_1_not_hesap_programi/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/_2_kdv_hesap_programi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_1_temel_kavramlar_ve_degiskenler/out/production/_2_kdv_hesap_programi/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2c0crkxyqOweNDcHFxEVT4324Rn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/smtsm/Desktop/Java101Projects/_2_kosullu_ifadeler_ve_kod_bloklari",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12ccd709-4afa-410a-90e2-887da98b1a36" name="Changes" comment="" />
+      <created>1707252137352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707252137352</updated>
+      <workItem from="1707252138409" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

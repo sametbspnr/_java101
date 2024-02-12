@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_1_temel_kavramlar_ve_degiskenler/.idea/Java101Projects.iml" filepath="$PROJECT_DIR$/_1_temel_kavramlar_ve_degiskenler/.idea/Java101Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1_temel_kavramlar_ve_degiskenler/_1_not_hesap_programi/_1_not_hesap_programi.iml" filepath="$PROJECT_DIR$/_1_temel_kavramlar_ve_degiskenler/_1_not_hesap_programi/_1_not_hesap_programi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1_temel_kavramlar_ve_degiskenler/_2_kdv_hesap_programi/_2_kdv_hesap_programi.iml" filepath="$PROJECT_DIR$/_1_temel_kavramlar_ve_degiskenler/_2_kdv_hesap_programi/_2_kdv_hesap_programi.iml" />
+    </modules>
+  </component>
+</project>
