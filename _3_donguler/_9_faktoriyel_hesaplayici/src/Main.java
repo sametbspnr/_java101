@@ -35,12 +35,12 @@ public class Main {
             total_r = total_r * j;
         }
 
-        for (int k = 1; k <= (n-r); k++) {
+        for (int k = 1; k <= (n - r); k++) {
             total_n_r = total_n_r * k;
         }
         combn = total_n / (total_r * total_n_r);
 
-        System.out.println(n + "'in " + r + "'li kombinasyonu: " +  combn );
+        System.out.println(n + "'in " + r + "'li kombinasyonu: " + combn);
 
 
     }
